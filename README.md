@@ -12,5 +12,5 @@ Docker image for building Elixir applications
 
 ### How to build image:
 
-  IMAGE=image-name-default-elixir-build make build
+    IMAGE=image-name-default-elixir-build make build
   
